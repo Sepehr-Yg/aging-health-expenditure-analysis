@@ -28,7 +28,7 @@ trend, while Italy, aging at a similar pace to Japan, is also below trend
 (-34.4%). This suggests population aging alone does not determine health
 spending — national health-policy choices play a decisive role.
 
-Full analysis: [Persian report](docs/report_fa.md) · [English report](docs/report_en.md)
+Full analysis: [English report](docs/report_en.md)
 
 ## Data
 
