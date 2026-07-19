@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this analysis or code, please cite it as below."
+title: "Aging Health Expenditure Analysis: An International Comparative Study"
+authors:
+  - family-names: "Yeganeh"
+    given-names: "Sepehr"
+date-released: "2026-07-19"
+url: "https://github.com/Sepehr-Yg/aging-health-expenditure-analysis"
+license: "MIT"
+keywords:
+  - population aging
+  - health expenditure
+  - World Bank
+  - Japan
+  - data analysis
